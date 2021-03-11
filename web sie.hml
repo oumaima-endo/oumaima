@@ -1,0 +1,41 @@
+
+<!DOCTYPEhtml>
+<html>
+<head
+<meta charset="UTF-8"/>
+<link rel="stylesheet" href="tete.css">
+</head>
+  <title></title>
+  <meta name='Author' content='BENZINA OUMAIMA'/>
+  </head>
+<body bgcolor="#ffee78">
+<center><img src="hello.jpg"></center>
+<h1><font color="red">it's time to learn math</font></h1>
+
+   <table class="tab" width=100% height=100%>
+
+    
+
+ <tr Align="center"  >  
+          <td>
+             <A HREF="addition.html" target="principal">addition</A>
+           </td>
+
+         <td>
+	
+	<A HREF="soustraction.html" target ="principal" >soustraction</A>
+	</td>
+          
+    <td >
+	
+	<A HREF="mailto:benzina.oumaima@gmail.com" >Contactez_nous</A>
+        
+	</td>
+
+
+ </tr>
+</table>
+
+
+</body>
+</html> 
